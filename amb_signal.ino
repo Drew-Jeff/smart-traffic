@@ -9,8 +9,8 @@ int traffic_2_R = D1;
 int traffic_2_G = D0;
 
 // Wi-Fi credentials
-const char* ssid = "Andrew's M34 5G";
-const char* password = "bluehawk";
+const char* ssid = "SSID";
+const char* password = "PWD";
 
 // Server URL
 const char* serverURL = "https://andu.jaidrew.co.in/ambulance/direction.txt";
