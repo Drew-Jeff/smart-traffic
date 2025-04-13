@@ -87,10 +87,8 @@
 
 /* Private variables ------------------------------------------------------- */
 // Wi-Fi credentials
-//const char* ssid = "JaiAct613_2G";
-//const char* password = "Anduboy@05";
-const char* ssid = "Andrew's M34 5G";
-const char* password = "bluehawk";
+const char* ssid = "SSID";
+const char* password = "PWD";
 // PHP endpoint
 const char* serverName = "https://andu.jaidrew.co.in/ambulance/traffic-direction.php";
 
