@@ -5,7 +5,7 @@ The Aim is to create an Ambulance Priority System where Ambulances are given the
 and emergency services potentially saving lives. 
 
 Setup / Training:-
-We set up An ESP 32 Cam to capture the images of 2 Vehicles (or toys) One which is a general car and the other which is an Ambulance. Now Boot up the Arcuino IDE and run the inbult Image Collector to collect 
+We set up An ESP 32 Cam to capture the images of 2 Vehicles (or toys) One which is a general car and the other which is an Ambulance. Now Boot up the Arduino IDE and run the inbult Image Collector to collect 
 images of the  vehicles and store it into 2 seperate folders to use for training. Now Find any Yolo/ Object Recognition No Code Models and Submit these images into 2 categories (General and Ambulance). Now 
 select the region where the vechile is present in every photo and label it. Once labeling is done, feed this data and train the model. Once it is done we can expot the code as an arduino Libray and  easily 
 use it for the upcoming processes. Now set up annother ESP 32 which will act as a reciever which gets data, Connect this Module with 2 Led Lights (opp/adj directions). Over the course of the Project, communicaton
